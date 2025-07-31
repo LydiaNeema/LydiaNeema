@@ -1,10 +1,15 @@
-## Hi there 👋
+## Hi there 👋,I am Lydia Neema!
 
+**I'm a Full-Stack Software Engineer passionate about building clean, responsive, and user-focused web applications.  
+Skilled in JavaScript, React, and now diving deep into backend development with Node.js and Express.  
+Open to job opportunities and always eager to collaborate on impactful projects!
+
+
+### 🛠 Tech Stack
+JavaScript • React • Node.js • HTML • CSS • Git • JSON Server
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/lydia-neema-1551a5167) | [Portfolio](https://react-portfolio-drab-eight-74.vercel.app/)
 <!--
-**LydiaNeema/LydiaNeema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
