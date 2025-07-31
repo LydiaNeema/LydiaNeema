@@ -1,6 +1,6 @@
 ## Hi there 👋,I am Lydia Neema!
 
-**I'm a Full-Stack Software Engineer passionate about building clean, responsive, and user-focused web applications.  
+I'm a Full-Stack Software Engineer passionate about building clean, responsive, and user-focused web applications.  
 Skilled in JavaScript, React, and now diving deep into backend development with Node.js and Express.  
 Open to job opportunities and always eager to collaborate on impactful projects!
 
